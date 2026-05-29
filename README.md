@@ -1,7 +1,4 @@
-# Hi, I am Julian Gonzalez
-
-also known as bigdjooftrash
-
+# Hi, I am ootsquad
 ---
 
 ## What languages do I like / use?
