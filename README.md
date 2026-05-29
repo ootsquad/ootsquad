@@ -47,6 +47,10 @@ From frontline troopers to powerful Jedi, every player can influence the outcome
 
 ---
 
+## Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ootsquad&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
+
 ## Contact me
 
 You can contact me by email:
