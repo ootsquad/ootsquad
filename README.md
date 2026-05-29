@@ -34,6 +34,7 @@ From frontline troopers to powerful Jedi, every player can influence the outcome
 ![Rojo](https://img.shields.io/badge/Rojo-C21325?style=for-the-badge&logo=robloxstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Adobe Substance 3D Painter](https://img.shields.io/badge/Substance%203D%20Painter-99E83F?style=for-the-badge&logo=adobe&logoColor=black)
 
