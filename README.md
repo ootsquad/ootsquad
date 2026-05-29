@@ -37,16 +37,6 @@ From frontline troopers to powerful Jedi, every player can influence the outcome
 
 ---
 
-## Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=ootsquad&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ootsquad&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-
----
-
 ## Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ootsquad&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
